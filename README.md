@@ -1,4 +1,4 @@
-## Olá eu sou o Sawyo Fernands , estudante de programação!!
+## Olá eu sou o Sawyo Fernands , estudante de programação !
 
 <div align="center">
   <a href="https://github.com/Sawyo-Fernands">

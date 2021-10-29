@@ -1,4 +1,3 @@
-https://www.youtube.com/watch?v=ZSO7nUgt3OA
 
 ## Olá eu sou o Sawyo Fernands , estudante de programação e tecnologia!
 

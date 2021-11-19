@@ -1,5 +1,5 @@
 
-## Olá eu sou o Sawyo Fernands , estudante de programação e tecnologia!
+## Estudante de programação e tecnologia!
 
 <div style="display: flex" align="left">
   <a href="https://github.com/Sawyo-Fernands">
